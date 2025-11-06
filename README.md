@@ -8,3 +8,7 @@ The project studies systemic financial risk using an SIIS contagion model applie
 Each network has its own script and parameter configuration.
 
 ## What the code does:
+- Builds synthetic financial networks (Traditional, FinTech, Joint)
+- Simulates contagion using the SIIS model
+- Supports different policy scenarios (baseline, risk-aware rewiring, TBTF saving)
+- Generates outputs such as time-series data, failure counts, and network statistics
